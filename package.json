@@ -28,8 +28,8 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "peerDependencies": {
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "0.0.0-experimental-d7382b6c4",
+    "react-dom": "0.0.0-experimental-d7382b6c4",
     "sendbird": "^3.0.129",
     "moment": "2.25.3"
   },
